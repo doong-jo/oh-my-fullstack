@@ -17,8 +17,6 @@
   <img alt="redis" src="https://img.shields.io/badge/redis-v4.0.9-green" />
 </p>
 
-## 🗓 [Kanban Board](https://bit.ly/2VBo8eF)
-
 ## 📺 [Demo](http://106.10.37.37)
 
 ## Env
