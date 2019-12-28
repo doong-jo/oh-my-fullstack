@@ -3,7 +3,7 @@
 ## Intro
 Web Fullstack의 기초가 되는 내용들을 학습 및 개발한 내용을 정리합니다.  
 
-### :octocat: [Airbnb Clone](https://github.com/doong-jo/oh-my-fullstack/tree/master/airbnb-clone)
+### :octocat: [Airbnb Clone](https://github.com/doong-jo/airbnb)
 ### 📺 [Demo](https://doong-airbnb-storybook.netlify.com/)
 Airbnb Clone project
 > Clone ["Airbnb"](https://www.airbnb.co.kr/)  
