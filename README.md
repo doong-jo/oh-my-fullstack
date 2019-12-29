@@ -18,5 +18,6 @@ A slideshow component for cycling through elements—images or slides of text—
 ---
 
 ### :octocat: [Account](https://github.com/doong-jo/simple-account)
+> ID: boostcamp PW: Boostcamp1!
 ### 📺 [Demo](https://doong-todo.herokuapp.com/)
 Simple Sign up, Login, Logout Website
