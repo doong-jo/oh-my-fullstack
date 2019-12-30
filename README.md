@@ -24,7 +24,6 @@ Card List Sample
 ---
 
 ### :octocat: [Account](https://github.com/doong-jo/simple-account)
-> ID: boostcamp PW: Boostcamp1!
 ### 📺 [Demo](https://doong-todo.herokuapp.com/)
 Simple Sign up, Login, Logout Website
-
+> ID: boostcamp PW: Boostcamp1!
