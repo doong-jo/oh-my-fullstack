@@ -17,7 +17,7 @@ A slideshow component for cycling through elements—images or slides of text—
 
 ---
 
-### :octocat: [Card List](https://github.com/doong-jo/react-card-list-sample)
+### :octocat: [React Card List](https://github.com/doong-jo/react-card-list-sample)
 ### 📺 [Demo](https://doong-jo.github.io/react-card-list-sample/)
 Card List Sample
 
