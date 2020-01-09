@@ -3,9 +3,9 @@
 ## Intro
 Web Fullstack의 기초가 되는 내용들을 학습 및 개발한 내용을 정리합니다.  
 
-### :octocat: [React Card List](https://github.com/doong-jo/react-card-list-sample) (Working)
+### :octocat: [React Card List](https://github.com/doong-jo/react-card-list-sample)
 ### 📺 [Demo](https://doong-jo.github.io/react-card-list-sample/)
-Card List Sample
+Card List with React
 
 ---
 
