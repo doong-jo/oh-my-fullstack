@@ -3,10 +3,9 @@
 ## Intro
 Web Fullstack의 기초가 되는 내용들을 학습 및 개발한 내용을 정리합니다.  
 
-### :octocat: [Airbnb Clone](https://github.com/doong-jo/airbnb)
-### 📺 [Demo](https://doong-airbnb-storybook.netlify.com/)
-Airbnb Clone project
-> Clone ["Airbnb"](https://www.airbnb.co.kr/)  
+### :octocat: [React Card List](https://github.com/doong-jo/react-card-list-sample) (Working)
+### 📺 [Demo](https://doong-jo.github.io/react-card-list-sample/)
+Card List Sample
 
 ---
 
@@ -17,9 +16,10 @@ A slideshow component for cycling through elements—images or slides of text—
 
 ---
 
-### :octocat: [React Card List](https://github.com/doong-jo/react-card-list-sample) (Working)
-### 📺 [Demo](https://doong-jo.github.io/react-card-list-sample/)
-Card List Sample
+### :octocat: [Airbnb Components & Server](https://github.com/doong-jo/airbnb)
+### 📺 [Demo](https://doong-airbnb-storybook.netlify.com/)
+Airbnb Clone project
+> Clone ["Airbnb"](https://www.airbnb.co.kr/)  
 
 ---
 
